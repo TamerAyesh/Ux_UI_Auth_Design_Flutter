@@ -1,16 +1,38 @@
-# uxuiloginflutter
+# Title
 
-A new Flutter application.
+This app is just to display three of Ux/Ui designs for Login/Registration Interfaces. Was applied by Flutter.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Every Desgin Has:
+- Default Interface
+- Login Interface
+- Register Interface
 
-A few resources to get you started if this is your first Flutter project:
+**Note: This is not a complete project. This is just a design that you can use in your project on Flutter.**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What You Need To Do?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pick the design you like to implement in your project.
+2. Copy the folder interfaces from the project by design number.
+3. Also copy the image folder from the project according to the design number.
+4. And you have got it.
+
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+### Design #01
+<img src="https://user-images.githubusercontent.com/38374139/83041506-388c5880-a049-11ea-813e-ecea5746eaa3.png">
+
+### Design #02
+<img src="https://user-images.githubusercontent.com/38374139/83041996-c9fbca80-a049-11ea-8176-dcf297692b25.png">
+
+### Design #03
+<img src="https://user-images.githubusercontent.com/38374139/83042017-cff1ab80-a049-11ea-84b8-7786ab0983f2.png">
+
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+### By: Tamer M. Ahmad
